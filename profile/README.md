@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1023893727342776332/1077705770503786546/logo.png" align="center" height="300" width="" />
+<img src="https://panel.atropol.eu/images/atropol-full.png" align="center" height="300" width="" />
 </div>  
   
 
