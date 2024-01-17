@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://panel.atropol.eu/images/atropol-full.png" align="center" height="300" width="" />
+<img src="https://atropol.eu/images/logo.png" align="center" height="300" width="" />
 </div>  
   
 
